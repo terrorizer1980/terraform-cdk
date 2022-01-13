@@ -37,7 +37,7 @@
     "codemaker": "^0.22.0",
     "constructs": "^3.3.75",
     "extract-zip": "^2.0.1",
-    "follow-redirects": "^1.13.3",
+    "follow-redirects": "^1.14.7",
     "fs-extra": "^8.1.0",
     "indent-string": "^4.0.0",
     "ink": "^3.0.8",
