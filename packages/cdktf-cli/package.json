@@ -42,7 +42,7 @@
     "indent-string": "^4.0.0",
     "ink": "^3.0.8",
     "ink-spinner": "^4.0.1",
-    "jsii-srcmak": "^0.1.272",
+    "jsii-srcmak": "^0.1.1302",
     "log4js": "^6.3.0",
     "open": "^7.0.4",
     "react": "<17.0.0",
