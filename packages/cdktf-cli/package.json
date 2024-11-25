@@ -40,7 +40,7 @@
     "follow-redirects": "^1.13.3",
     "fs-extra": "^8.1.0",
     "indent-string": "^4.0.0",
-    "ink": "^3.0.8",
+    "ink": "^5.1.0",
     "ink-spinner": "^4.0.1",
     "jsii-srcmak": "^0.1.272",
     "log4js": "^6.3.0",
